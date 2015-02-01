@@ -1,0 +1,1 @@
+print sum(int(raw_input()) for i in range(int(raw_input())))/2.0
