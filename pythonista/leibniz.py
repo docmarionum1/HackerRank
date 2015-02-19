@@ -1,0 +1,1 @@
+for _ in[0]*input():print sum(1./(i*2+1)*[1,-1][i%2] for i in range(input()))
